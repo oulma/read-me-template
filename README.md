@@ -1,7 +1,7 @@
 # la gestion d`un parc d automobile
 
 
-![Project Image](poo2.png)
+![Project Image](/poo2.png)
 
 > This is a ReadMe template to help save you time and effort.
 
